@@ -1,0 +1,32 @@
+### System ###
+*.directory
+
+### FreePascal ###
+*.lps
+*.compiled
+*.[oa]
+*.ppu
+*.rst
+*.cgi
+*.exe
+*.log
+*.bak*
+fp.ini
+fp.cfg
+fp.dsk
+
+### Lazarus ###
+*.dll
+*.so
+*.dylib
+*.lrs
+*.res
+*.dbg
+*.o
+*.or
+*.a
+*.rsj
+*.lrt
+backup/
+*.bak
+lib/
